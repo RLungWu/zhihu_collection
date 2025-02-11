@@ -1,8 +1,3 @@
----
-title: zhihu_collection
-
----
-
 # zhihu_collection
 
 | Title | Summary | Feedback |
