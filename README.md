@@ -37,4 +37,6 @@
 |33|[deepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention）](https://zhuanlan.zhihu.com/p/16730036197?utm_psn=1872639045261217792)|
 |34|[拆解大语言模型RLHF中的PPO](https://zhuanlan.zhihu.com/p/645225982?utm_psn=1872250276049715201)|
 |35|[开源DeepResearch：24小时挑战，重现OpenAI的AI Agent奇迹](https://zhuanlan.zhihu.com/p/22559225933?utm_psn=1872248791379357697)|
-|36|[一个博士生接受怎样的训练是完整、全面的科研训练？](https://www.zhihu.com/question/384512106/answer/3556664044)|
+|36|[一个博士生接受怎样的训练是完整、全面的科研训练？](https://www.zhihu.com/question/384512106/answer/3556664044)|[Summary](./zhihu/36/No36.md)||
+|37|[RAG（检索增强生成）会不会消亡呢？](https://www.zhihu.com/question/637421964/answer/99446183305?utm_psn=1873430932557537280)|
+|38|[从零到一打造商用 AI Agent（智能体)](https://zhuanlan.zhihu.com/p/23285829505?utm_psn=1873432769390051328)|
