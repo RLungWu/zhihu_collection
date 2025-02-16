@@ -42,3 +42,4 @@
 |38|[从零到一打造商用 AI Agent（智能体)](https://zhuanlan.zhihu.com/p/23285829505?utm_psn=1873432769390051328)|
 |39|[大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/102260978569?utm_psn=1874459723065081858)|
 |40|[2025年大模型LLM还有哪些可研究的方向？](https://www.zhihu.com/question/11285951981)|
+|41|[解读Open-source DeepResearch](https://zhuanlan.zhihu.com/p/22733177444)|
