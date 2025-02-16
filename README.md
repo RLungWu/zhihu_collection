@@ -40,3 +40,4 @@
 |36|[一个博士生接受怎样的训练是完整、全面的科研训练？](https://www.zhihu.com/question/384512106/answer/3556664044)|[Summary](./zhihu/36/No36.md)||
 |37|[RAG（检索增强生成）会不会消亡呢？](https://www.zhihu.com/question/637421964/answer/99446183305?utm_psn=1873430932557537280)|
 |38|[从零到一打造商用 AI Agent（智能体)](https://zhuanlan.zhihu.com/p/23285829505?utm_psn=1873432769390051328)|
+|39|[大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/102260978569?utm_psn=1874459723065081858)|
