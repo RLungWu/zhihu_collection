@@ -41,7 +41,7 @@
 |37|[RAG（检索增强生成）会不会消亡呢？](https://www.zhihu.com/question/637421964/answer/99446183305?utm_psn=1873430932557537280)|
 |38|[从零到一打造商用 AI Agent（智能体)](https://zhuanlan.zhihu.com/p/23285829505?utm_psn=1873432769390051328)|
 |39|[大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/102260978569?utm_psn=1874459723065081858)|
-|40|[2025年大模型LLM还有哪些可研究的方向？](https://www.zhihu.com/question/11285951981)|
+|40|[2025年大模型LLM还有哪些可研究的方向？](https://www.zhihu.com/question/11285951981)|[Summary](./zhihu/41/)|
 |41|[解读Open-source DeepResearch](https://zhuanlan.zhihu.com/p/22733177444)|
 |42|[从零实现一个MOE（专家混合模型）](https://zhuanlan.zhihu.com/p/701777558?utm_psn=1875507800106467329)|
 |43|[RAG、LangChain、Agent 到底有啥关系？](https://www.zhihu.com/question/2495164206/answer/86964072894?utm_psn=1875623080514158592)|
