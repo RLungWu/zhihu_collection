@@ -36,7 +36,7 @@
 |32|[大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/3333654552?utm_psn=1872750354279559168)|
 |33|[deepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention）](https://zhuanlan.zhihu.com/p/16730036197?utm_psn=1872639045261217792)|
 |34|[拆解大语言模型RLHF中的PPO](https://zhuanlan.zhihu.com/p/645225982?utm_psn=1872250276049715201)|
-|35|[开源DeepResearch：24小时挑战，重现OpenAI的AI Agent奇迹](https://zhuanlan.zhihu.com/p/22559225933?utm_psn=1872248791379357697)|
+|35|[开源DeepResearch：24小时挑战，重现OpenAI的AI Agent奇迹](https://zhuanlan.zhihu.com/p/22559225933?utm_psn=1872248791379357697)|Duplicate||
 |36|[一个博士生接受怎样的训练是完整、全面的科研训练？](https://www.zhihu.com/question/384512106/answer/3556664044)|[Summary](./zhihu/36/No36.md)||
 |37|[RAG（检索增强生成）会不会消亡呢？](https://www.zhihu.com/question/637421964/answer/99446183305?utm_psn=1873430932557537280)|
 |38|[从零到一打造商用 AI Agent（智能体)](https://zhuanlan.zhihu.com/p/23285829505?utm_psn=1873432769390051328)|
@@ -45,3 +45,10 @@
 |41|[解读Open-source DeepResearch](https://zhuanlan.zhihu.com/p/22733177444)|
 |42|[从零实现一个MOE（专家混合模型）](https://zhuanlan.zhihu.com/p/701777558?utm_psn=1875507800106467329)|
 |43|[RAG、LangChain、Agent 到底有啥关系？](https://www.zhihu.com/question/2495164206/answer/86964072894?utm_psn=1875623080514158592)|
+|44|[7 MLOPs Projects for Begineers](https://www.kdnuggets.com/7-mlops-projects-beginners)|
+|45|[如何把deepseek-R1微调/蒸馏为某领域的一个专家？](https://www.zhihu.com/question/10555876430/answer/104851046659)|
+|46|[Llama模仿Diffusion多模态涨分30%！只需共享注意力分布](https://zhuanlan.zhihu.com/p/24207646579)|
+|47|[从零搭建自己的 Multi-Agent](https://zhuanlan.zhihu.com/p/23104679193?utm_psn=1875954926837964800)|
+|48|[llm reasoning/ theory of llm 从入门到入土](https://zhuanlan.zhihu.com/p/24665806059?utm_psn=1875959409554903040)|
+|49|[笔记：MoBA 与 Native Sparse Attention](https://zhuanlan.zhihu.com/p/24774848974?utm_psn=1875959707941867520)|
+|50|[目前大模型量化方案有很多，有哪些比较SOTA的量化方案？](https://www.zhihu.com/question/10439431486/answer/86095724572?utm_psn=1875983114599268352)|
