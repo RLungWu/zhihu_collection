@@ -52,3 +52,5 @@
 |48|[llm reasoning/ theory of llm 从入门到入土](https://zhuanlan.zhihu.com/p/24665806059?utm_psn=1875959409554903040)|
 |49|[笔记：MoBA 与 Native Sparse Attention](https://zhuanlan.zhihu.com/p/24774848974?utm_psn=1875959707941867520)|
 |50|[目前大模型量化方案有很多，有哪些比较SOTA的量化方案？](https://www.zhihu.com/question/10439431486/answer/86095724572?utm_psn=1875983114599268352)|
+|51|[笔记：关于 LLM MLSys 研究的一些思考](https://zhuanlan.zhihu.com/p/720634180?utm_psn=1877109033598582784)|
+|52|[AI Agent目前应用落地有哪些局限性？](https://www.zhihu.com/question/624354739/answer/95596641305?utm_psn=1876811850999533568)|
