@@ -55,3 +55,5 @@
 |51|[笔记：关于 LLM MLSys 研究的一些思考](https://zhuanlan.zhihu.com/p/720634180?utm_psn=1877109033598582784)|
 |52|[AI Agent目前应用落地有哪些局限性？](https://www.zhihu.com/question/624354739/answer/95596641305?utm_psn=1876811850999533568)|
 |53|[笔记：关于 LLM MLSys 研究的一些思考](https://zhuanlan.zhihu.com/p/720634180?utm_psn=1877109033598582784)|
+|54|[大模型面试：RAG项目的拷问（文字版）](https://zhuanlan.zhihu.com/p/3448487946?utm_psn=1880380835355669111)|
+|55|[以RLer视角看大模型训练中的强化学习](https://zhuanlan.zhihu.com/p/23290969372?utm_psn=1880357438890415094)|
