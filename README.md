@@ -55,6 +55,7 @@
 |51|[笔记：关于 LLM MLSys 研究的一些思考](https://zhuanlan.zhihu.com/p/720634180?utm_psn=1877109033598582784)|
 |52|[AI Agent目前应用落地有哪些局限性？](https://www.zhihu.com/question/624354739/answer/95596641305?utm_psn=1876811850999533568)|
 |53|[笔记：关于 LLM MLSys 研究的一些思考](https://zhuanlan.zhihu.com/p/720634180?utm_psn=1877109033598582784)|
+<<<<<<< HEAD
 |54|[大模型面试：RAG项目的拷问（文字版）](https://zhuanlan.zhihu.com/p/3448487946?utm_psn=1880380835355669111)|
 |55|[以RLer视角看大模型训练中的强化学习](https://zhuanlan.zhihu.com/p/23290969372?utm_psn=1880357438890415094)|
 |56|[从啥也不会到CUDA GEMM优化](https://zhuanlan.zhihu.com/p/703256080?utm_psn=1881410562489034686)|
@@ -72,3 +73,11 @@
 |68|[吴恩达来信：如何决定是否该进行微调](https://zhuanlan.zhihu.com/p/1888902823573426902?share_code=5t5SbQzT5LMT&utm_psn=1889079600287559690)|
 |69|[北美ML求职篇： 业界LLM Project](https://zhuanlan.zhihu.com/p/1888436346835686934?share_code=FsxCt52QCzj3&utm_psn=1889103751429747724)|
 |70|[SFT loss 计算的那些坑（多轮合并/packing）](https://zhuanlan.zhihu.com/p/721652210)|
+=======
+|54|[大模型面试：RAG项目的拷问（文字版）](https://zhuanlan.zhihu.com/p/3448487946?utm_psn=1880380835355669111)|有點沒用|
+|55|[以RLer视角看大模型训练中的强化学习](https://zhuanlan.zhihu.com/p/23290969372?utm_psn=1880357438890415094)|
+|56|[深入理解构建和优化大语言推理模型的方法和策略](https://zhuanlan.zhihu.com/p/28530752474?utm_psn=1881823435275080134)|
+|57|[大模型Post-training的范式可能已经发生变化了](https://zhuanlan.zhihu.com/p/28584030587?utm_psn=1881768454979297519)|
+|58|[学习检索增强生成 RAG时，多数人是不是从Llamaindex学起，首先研究和改写哪个RAG开源代码？](https://www.zhihu.com/question/659305847/answer/119512863129?utm_psn=1881759616964203347)|
+|59|[从啥也不会到CUDA GEMM优化](https://zhuanlan.zhihu.com/p/703256080?utm_psn=1881410562489034686)|
+>>>>>>> dffab6ab8510a1e71adcb57c876a23d426d0b4e2
