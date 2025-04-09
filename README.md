@@ -57,3 +57,18 @@
 |53|[笔记：关于 LLM MLSys 研究的一些思考](https://zhuanlan.zhihu.com/p/720634180?utm_psn=1877109033598582784)|
 |54|[大模型面试：RAG项目的拷问（文字版）](https://zhuanlan.zhihu.com/p/3448487946?utm_psn=1880380835355669111)|
 |55|[以RLer视角看大模型训练中的强化学习](https://zhuanlan.zhihu.com/p/23290969372?utm_psn=1880357438890415094)|
+|56|[从啥也不会到CUDA GEMM优化](https://zhuanlan.zhihu.com/p/703256080?utm_psn=1881410562489034686)|
+|57|[学习检索增强生成 RAG时，多数人是不是从Llamaindex学起，首先研究和改写哪个RAG开源代码？](https://www.zhihu.com/question/659305847/answer/119512863129?utm_psn=1881759616964203347)|
+|58|[大模型Post-training的范氏可能已經發生改變](https://zhuanlan.zhihu.com/p/28584030587?utm_psn=1881768454979297519)|
+|59|[深入理解構建和優化大語言模型推理的方式和策略](https://zhuanlan.zhihu.com/p/28530752474?utm_psn=1881823435275080134)|
+|60|[圖解大模型RLHF系列之: 人人都能看懂的PPO原理與原馬解讀](https://zhuanlan.zhihu.com/p/677607581?utm_psn=1882502125289972638)|
+|61|[代碼模型碎碎念](https://zhuanlan.zhihu.com/p/29211684588)|
+|62|[為什麼QWEN能自我改進推理，LLAMA卻不行? 斯坦福找到了原理。](https://zhuanlan.zhihu.com/p/28978075877)|
+|63|[看图学大模型：Transformers 的前生今世(上）](https://zhuanlan.zhihu.com/p/690984212?utm_psn=1883577238492001675)|
+|64|[全景解读 LLM 后训练技术](https://zhuanlan.zhihu.com/p/30201040247)|
+|65|[AIRI，LoRA 知识集成 在 LoRA 中可装入多少知识而不损害 LLM？](https://zhuanlan.zhihu.com/p/28312749989?share_code=y63OYF9aHf3W&utm_psn=1887926026383892957)|
+|66|[大模型微调到底有没有技术含量，或者说技术含量到底有多大？](https://www.zhihu.com/question/599396505/answer/1887826439019148076)|
+|67|[【论文解读】DAPO：工业级LLM + RL训练解决方案](https://zhuanlan.zhihu.com/p/32368626065)|
+|68|[吴恩达来信：如何决定是否该进行微调](https://zhuanlan.zhihu.com/p/1888902823573426902?share_code=5t5SbQzT5LMT&utm_psn=1889079600287559690)|
+|69|[北美ML求职篇： 业界LLM Project](https://zhuanlan.zhihu.com/p/1888436346835686934?share_code=FsxCt52QCzj3&utm_psn=1889103751429747724)|
+|70|[SFT loss 计算的那些坑（多轮合并/packing）](https://zhuanlan.zhihu.com/p/721652210)|
