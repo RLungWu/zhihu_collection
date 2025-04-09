@@ -9,7 +9,7 @@
 |5|[一文讲明白大模型显存占用（只考虑单卡）](https://zhuanlan.zhihu.com/p/713256008?utm_psn=1850877468791164928)|
 |6|[Nips2024-Agent方向论文（上）](https://zhuanlan.zhihu.com/p/12317898153?utm_psn=1851404730472992768)|
 |7|[基于LLM+向量库的文档对话痛点及解决方案](https://zhuanlan.zhihu.com/p/651179780?utm_psn=1851983465051975682)|
-|8|[RAG（检索增强生成）会不会消亡呢？](https://www.zhihu.com/question/637421964/answer/33309712475?utm_psn=1852132878818869248)|
+|8|[RAG（检索增强生成）会不会消亡呢？](https://www.zhihu.com/question/637421964/answer/33309712475?utm_psn=1852132878818869248)|[summary](./zhihu/08/readme.md)|
 |9|[LightRAG技术框架解读](https://zhuanlan.zhihu.com/p/13261291813?utm_psn=1853075329633091584)|
 |10|[大家觉得做一个大模型检索增强生成（RAG）系统，最难搞定的是那部分工作？](https://www.zhihu.com/question/642650878/answer/57968449225?utm_psn=1853197485889163265)|
 |11|[万字长文梳理2024年的RAG](https://zhuanlan.zhihu.com/p/14116449727?utm_psn=1854663568068308992)|
