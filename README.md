@@ -48,7 +48,7 @@
 |44|[7 MLOPs Projects for Begineers](https://www.kdnuggets.com/7-mlops-projects-beginners)|
 |45|[如何把deepseek-R1微調/蒸餾為某領域的一個專家？](https://www.zhihu.com/question/10555876430/answer/104851046659)|
 |46|[Llama模仿Diffusion多模態漲分30%！只需共享注意力分布](https://zhuanlan.zhihu.com/p/24207646579)|
-|47|[從零搭建自己的 Multi-Agent](https://zhuanlan.zhihu.com/p/23104679193?utm_psn=1875954926837964800)|
+|47|[從零搭建自己的 Multi-Agent](https://zhuanlan.zhihu.com/p/23104679193?utm_psn=1875954926837964800)||有點限制|
 |48|[llm reasoning/ theory of llm 從入門到入土](https://zhuanlan.zhihu.com/p/24665806059?utm_psn=1875959409554903040)|
 |49|[筆記：MoBA 與 Native Sparse Attention](https://zhuanlan.zhihu.com/p/24774848974?utm_psn=1875959707941867520)|
 |50|[目前大模型量化方案有很多，有哪些比較SOTA的量化方案？](https://www.zhihu.com/question/10439431486/answer/86095724572?utm_psn=1875983114599268352)|
@@ -72,3 +72,4 @@
 |68|[吳恩達來信：如何決定是否該進行微調](https://zhuanlan.zhihu.com/p/1888902823573426902?share_code=5t5SbQzT5LMT&utm_psn=1889079600287559690)|
 |69|[北美ML求職篇： 業界LLM Project](https://zhuanlan.zhihu.com/p/1888436346835686934?share_code=FsxCt52QCzj3&utm_psn=1889103751429747724)|
 |70|[SFT loss 計算的那些坑（多輪合並/packing）](https://zhuanlan.zhihu.com/p/721652210)|
+|71|[在 AI Agent 的開發中，交互設計（殼）和底層模型能力哪個更重要？未來哪一方會成為競爭核心？](https://www.zhihu.com/question/1891113677635162799/answer/1891169292898246840?share_code=KfwwgRKt6K4W&utm_psn=1894891833739425647)|
