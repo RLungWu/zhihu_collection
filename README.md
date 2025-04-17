@@ -73,3 +73,4 @@
 |69|[北美ML求職篇： 業界LLM Project](https://zhuanlan.zhihu.com/p/1888436346835686934?share_code=FsxCt52QCzj3&utm_psn=1889103751429747724)|
 |70|[SFT loss 計算的那些坑（多輪合並/packing）](https://zhuanlan.zhihu.com/p/721652210)|
 |71|[在 AI Agent 的開發中，交互設計（殼）和底層模型能力哪個更重要？未來哪一方會成為競爭核心？](https://www.zhihu.com/question/1891113677635162799/answer/1891169292898246840?share_code=KfwwgRKt6K4W&utm_psn=1894891833739425647)|
+|72|[從啥也不會到CUDA GEMM優化](https://zhuanlan.zhihu.com/p/703256080?utm_psn=1881410562489034686)|
