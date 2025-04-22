@@ -74,3 +74,5 @@
 |70|[SFT loss 計算的那些坑（多輪合並/packing）](https://zhuanlan.zhihu.com/p/721652210)|
 |71|[在 AI Agent 的開發中，交互設計（殼）和底層模型能力哪個更重要？未來哪一方會成為競爭核心？](https://www.zhihu.com/question/1891113677635162799/answer/1891169292898246840?share_code=KfwwgRKt6K4W&utm_psn=1894891833739425647)|
 |72|[從啥也不會到CUDA GEMM優化](https://zhuanlan.zhihu.com/p/703256080?utm_psn=1881410562489034686)|
+|73|[論文筆記：DejaVu、LLM in Flash、PowerInfer](https://zhuanlan.zhihu.com/p/675585887)|
+|74|[聊聊大模型推理的動態稀疏化之二：MInference1 與 PowerInfer2](https://zhuanlan.zhihu.com/p/711399792)|
