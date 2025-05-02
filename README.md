@@ -76,3 +76,8 @@
 |72|[從啥也不會到CUDA GEMM優化](https://zhuanlan.zhihu.com/p/703256080?utm_psn=1881410562489034686)|
 |73|[論文筆記：DejaVu、LLM in Flash、PowerInfer](https://zhuanlan.zhihu.com/p/675585887)|
 |74|[聊聊大模型推理的動態稀疏化之二：MInference1 與 PowerInfer2](https://zhuanlan.zhihu.com/p/711399792)|
+|75|[有沒有一本講解gpu和CUDA編程的經典入門書籍](https://www.zhihu.com/question/26570985/answer/3465784970)|
+|76|[CUDA學習資料及路線圖【持續更新】](https://zhuanlan.zhihu.com/p/273607744)|
+|77|[RAG：LLMs + LangChain app 開發關鍵技術整理](https://zhuanlan.zhihu.com/p/664097125)|
+|78|[如何評價 Deepseek 新發布的 DeepSeek-Prover-V2-671B 模型?](https://www.zhihu.com/question/1900955534003254030)|
+|79|[Llama-index如何實現大模型RAG？有哪些方式和途徑？](https://www.zhihu.com/question/644321945/answer/3506765564)|
