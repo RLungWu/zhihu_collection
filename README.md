@@ -81,3 +81,5 @@
 |77|[RAG：LLMs + LangChain app 開發關鍵技術整理](https://zhuanlan.zhihu.com/p/664097125)|
 |78|[如何評價 Deepseek 新發布的 DeepSeek-Prover-V2-671B 模型?](https://www.zhihu.com/question/1900955534003254030)|
 |79|[Llama-index如何實現大模型RAG？有哪些方式和途徑？](https://www.zhihu.com/question/644321945/answer/3506765564)|
+|80|[大模型微調（finetune）方法總結](https://zhuanlan.zhihu.com/p/644122818?share_code=13yG7QnktUqMr&utm_psn=1901439006358639617)|
+|81|[RAG：開發流程](https://zhuanlan.zhihu.com/p/1901230247434772975?share_code=MyuzYIDrd0N2&utm_psn=1901822247016040195)|
