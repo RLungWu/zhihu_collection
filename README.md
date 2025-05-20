@@ -83,3 +83,7 @@
 |79|[Llama-index如何實現大模型RAG？有哪些方式和途徑？](https://www.zhihu.com/question/644321945/answer/3506765564)|
 |80|[大模型微調（finetune）方法總結](https://zhuanlan.zhihu.com/p/644122818?share_code=13yG7QnktUqMr&utm_psn=1901439006358639617)|
 |81|[RAG：開發流程](https://zhuanlan.zhihu.com/p/1901230247434772975?share_code=MyuzYIDrd0N2&utm_psn=1901822247016040195)|
+|82|[本科生如何學習ROS呢?](https://www.zhihu.com/question/591518177/answer/2953919733?share_code=tfjwOcmID6Wd&utm_psn=1907137089625134797)|
+|83|[多模態大模型(理解)入門看這一篇就好](https://zhuanlan.zhihu.com/p/706216503?share_code=1irFdBC2pFiPT&utm_psn=1907550253818815726)|
+|84|[ISSAC SIM 入門採坑指南](https://zhuanlan.zhihu.com/p/27174960684?share_code=1emWKon8u2B0U&utm_psn=1908184201892701685)|
+|85|[大家在工作中都甚麼時候會用到Open ai Triton](https://www.zhihu.com/question/635910409/answer/3340587355?share_code=CIbgQndNVrye&utm_psn=1902675302477435139)|
