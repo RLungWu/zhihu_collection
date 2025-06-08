@@ -88,3 +88,8 @@
 |84|[ISSAC SIM 入門採坑指南](https://zhuanlan.zhihu.com/p/27174960684?share_code=1emWKon8u2B0U&utm_psn=1908184201892701685)|
 |85|[大家在工作中都甚麼時候會用到Open ai Triton](https://www.zhihu.com/question/635910409/answer/3340587355?share_code=CIbgQndNVrye&utm_psn=1902675302477435139)|
 |86|[大模型所有算子邏輯](https://zhuanlan.zhihu.com/p/1909996866432668841?share_code=ijdBWGdx6vPY&utm_psn=1910678952382567991)|
+|87|[博三上NLP方向，有2卡A100，能夠微調llama，chatglm等模型，找不著研究方向怎麽辦？](https://www.zhihu.com/question/629933996/answer/6648927215?share_code=z1rIEk6pvfMo&utm_psn=1913936790009673254)|
+|88|[Qwen團隊新發現：大模型推理能力的提高僅由少數高熵 Token 貢獻](https://zhuanlan.zhihu.com/p/1913555493412115868?share_code=17ZGbyN6HekmE&utm_psn=1914251462931902550)|
+|89|[無人機應用級開發（建圖/視覺/強化學習）應該如何入門？如何搭一個可以實現算法的無人機實驗平台？](https://www.zhihu.com/question/336001585/answer/756146695)|
+|90|[2025 AI模型選用指南](https://zhuanlan.zhihu.com/p/1914348033820328694?share_code=EIuu75dQWdu9&utm_psn=1914381702484197858)|
+|91|[為什麽深度學習pytorch庫里的torch.nn的一些函數可以實現的東西要用類實現，比如卷積層？](https://www.zhihu.com/question/677187311/answer/3780895706?share_code=jsM9M3SCpxRZ&utm_psn=1915043615350192040)|
