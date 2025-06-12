@@ -88,3 +88,4 @@
 |84|[ISSAC SIM 入門採坑指南](https://zhuanlan.zhihu.com/p/27174960684?share_code=1emWKon8u2B0U&utm_psn=1908184201892701685)|
 |85|[大家在工作中都甚麼時候會用到Open ai Triton](https://www.zhihu.com/question/635910409/answer/3340587355?share_code=CIbgQndNVrye&utm_psn=1902675302477435139)|
 |86|[大模型所有算子邏輯](https://zhuanlan.zhihu.com/p/1909996866432668841?share_code=ijdBWGdx6vPY&utm_psn=1910678952382567991)|
+|87|[為什麼說大模型訓練很難](https://www.zhihu.com/question/498271491/answer/30883045673?share_code=162JOCjibfY1&utm_psn=1916181084711917363)|
