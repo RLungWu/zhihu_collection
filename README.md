@@ -93,3 +93,4 @@
 |89|[無人機應用級開發（建圖/視覺/強化學習）應該如何入門？如何搭一個可以實現算法的無人機實驗平台？](https://www.zhihu.com/question/336001585/answer/756146695)|
 |90|[2025 AI模型選用指南](https://zhuanlan.zhihu.com/p/1914348033820328694?share_code=EIuu75dQWdu9&utm_psn=1914381702484197858)|
 |91|[為什麽深度學習pytorch庫里的torch.nn的一些函數可以實現的東西要用類實現，比如卷積層？](https://www.zhihu.com/question/677187311/answer/3780895706?share_code=jsM9M3SCpxRZ&utm_psn=1915043615350192040)|
+|92|[最新綜述！具身領域中基於物理模擬器的機器人導航與操作](https://zhuanlan.zhihu.com/p/1905403054779524293)|
