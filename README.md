@@ -96,3 +96,5 @@
 |92|[最新綜述！具身領域中基於物理模擬器的機器人導航與操作](https://zhuanlan.zhihu.com/p/1905403054779524293)|
 |93|[VLN 視覺導航入門](https://zhuanlan.zhihu.com/p/19435123237)|
 |94|[SFT - 22 條經驗](https://zhuanlan.zhihu.com/p/49398269658)|
+|95|[CVPR 2025 有哪些值得關注的文章?](https://www.zhihu.com/question/13320524361)|
+|96|[LLM4Rec-Day15 - RAG](https://zhuanlan.zhihu.com/p/1923410628132999893)|
