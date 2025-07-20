@@ -95,4 +95,4 @@
 |91|[為什麽深度學習pytorch庫里的torch.nn的一些函數可以實現的東西要用類實現，比如卷積層？](https://www.zhihu.com/question/677187311/answer/3780895706?share_code=jsM9M3SCpxRZ&utm_psn=1915043615350192040)|
 |92|[最新綜述！具身領域中基於物理模擬器的機器人導航與操作](https://zhuanlan.zhihu.com/p/1905403054779524293)|
 |93|[VLN 視覺導航入門](https://zhuanlan.zhihu.com/p/19435123237)|
-|94|[大模型LLM-微調經驗分享&總結](https://zhuanlan.zhihu.com/p/620885226)|
+|94|[大模型LLM-微調經驗分享&總結](https://zhuanlan.zhihu.com/p/620885226)|[Summary](./zhihu/94/readme.md)|
