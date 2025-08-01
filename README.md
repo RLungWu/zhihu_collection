@@ -99,3 +99,9 @@
 |94|[SFT - 22 條經驗](https://zhuanlan.zhihu.com/p/49398269658)|
 |95|[CVPR 2025 有哪些值得關注的文章?](https://www.zhihu.com/question/13320524361)|
 |96|[LLM4Rec-Day15 - RAG](https://zhuanlan.zhihu.com/p/1923410628132999893)|
+|97|[如何評價智譜開源的GLM‑4.1V‑9B‑Thinking 視覺大模型？](https://www.zhihu.com/question/1923793470843254485/answer/1923793973677369098?share_code=AdHgiXjH2r29&utm_psn=1928267755875963857)|
+|98|[MLLM理解多模態信息的過程比你想象得複雜（1）——從MLLM各組件的視角出發](https://zhuanlan.zhihu.com/p/1926805011641372983?share_code=1642IikWUMAHb&utm_psn=1927814292796868507)|
+|99|[IBM RAG挑戰賽冠軍方案第二彈：像素級復現→7大工程經驗](https://zhuanlan.zhihu.com/p/1926423526816064519?share_code=1ogOXd25N4wpb&utm_psn=1927440251183411229)|
+|100|[大模型多模態統一架構全景](https://zhuanlan.zhihu.com/p/1926307001924843157?share_code=Zd0N50FHnM3v&utm_psn=1927167615232615021)|
+|101|[計算機視覺研究生如何提升自己的代碼能力？](https://www.zhihu.com/question/1889645371757671937/answer/1895982211947266138?share_code=11E286OagaLq4&utm_psn=1926075601510434671)|
+|102|[靠OpenCV吃飯的圖像算法工程師在深度學習的衝擊下衝擊下還有活路嗎？](https://www.zhihu.com/question/346053854/answer/1925616498539476874?share_code=4byiJCS642dB&utm_psn=1925619698453676826)|
