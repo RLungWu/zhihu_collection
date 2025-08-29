@@ -105,3 +105,8 @@
 |100|[大模型多模態統一架構全景](https://zhuanlan.zhihu.com/p/1926307001924843157?share_code=Zd0N50FHnM3v&utm_psn=1927167615232615021)|
 |101|[計算機視覺研究生如何提升自己的代碼能力？](https://www.zhihu.com/question/1889645371757671937/answer/1895982211947266138?share_code=11E286OagaLq4&utm_psn=1926075601510434671)|
 |102|[靠OpenCV吃飯的圖像算法工程師在深度學習的衝擊下衝擊下還有活路嗎？](https://www.zhihu.com/question/346053854/answer/1925616498539476874?share_code=4byiJCS642dB&utm_psn=1925619698453676826)|
+|103|[代碼指南 - LLaVA 代碼解析](https://zhuanlan.zhihu.com/p/721647840?share_code=SjTSaPiEE0Mt&utm_psn=1928814912701962136)|
+|104|[基於 Qwen2.5-VL 實現自動駕駛 VLM 的SFT](https://zhuanlan.zhihu.com/p/1932832893274652877?share_code=tfimisPm7lJ6&utm_psn=1933223950592241874)|
+|105|[關於 OpenAI 最近的一個有趣的系統設計面試題目](https://zhuanlan.zhihu.com/p/1925106301026927544?share_code=10fvpEu6Sq3Dw&utm_psn=1934342152898451047)|
+|106|[MOE 為什麼不把一個句子都放進一個專家，而是一個 Token 呢?](https://www.zhihu.com/question/646173158/answer/1940555666092700667?share_code=Bl04i5N7yMp7&utm_psn=1940756161902117325)|
+|107|[你見過那些瞠目結舌的 python 技巧](https://www.zhihu.com/question/37904398/answer/1943067740651914792?share_code=G2GXFcuQhOLw&utm_psn=1943786155733652118)|
