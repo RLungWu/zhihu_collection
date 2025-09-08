@@ -110,3 +110,6 @@
 |105|[關於 OpenAI 最近的一個有趣的系統設計面試題目](https://zhuanlan.zhihu.com/p/1925106301026927544?share_code=10fvpEu6Sq3Dw&utm_psn=1934342152898451047)|
 |106|[MOE 為什麼不把一個句子都放進一個專家，而是一個 Token 呢?](https://www.zhihu.com/question/646173158/answer/1940555666092700667?share_code=Bl04i5N7yMp7&utm_psn=1940756161902117325)|
 |107|[你見過那些瞠目結舌的 python 技巧](https://www.zhihu.com/question/37904398/answer/1943067740651914792?share_code=G2GXFcuQhOLw&utm_psn=1943786155733652118)|
+|108|[大家覺得做一個 RAG 系統最難搞定的部分事情有哪些](https://www.zhihu.com/question/642650878/answer/1946242660005312415?share_code=BAzNxJgZDrDG&utm_psn=1946651512492238260)|
+|109|[GLM-4.1V-Thinking 和 GLM-4.5V 模型架构技术报告](https://zhuanlan.zhihu.com/p/1947030611526161383)|
+|110|[[文獻翻譯] Agent AI: Surveying the Horizons of Multimodal Interaction](https://zhuanlan.zhihu.com/p/1948125872373604769?share_code=Mq6imc5YABCX&utm_psn=1948135972349912766)|
