@@ -113,3 +113,12 @@
 |108|[大家覺得做一個 RAG 系統最難搞定的部分事情有哪些](https://www.zhihu.com/question/642650878/answer/1946242660005312415?share_code=BAzNxJgZDrDG&utm_psn=1946651512492238260)|
 |109|[GLM-4.1V-Thinking 和 GLM-4.5V 模型架构技术报告](https://zhuanlan.zhihu.com/p/1947030611526161383)|
 |110|[[文獻翻譯] Agent AI: Surveying the Horizons of Multimodal Interaction](https://zhuanlan.zhihu.com/p/1948125872373604769?share_code=Mq6imc5YABCX&utm_psn=1948135972349912766)|
+|111|[在 AI Agent 的開發中，交互設計和底層模型能力哪個個重要，哪一個會成為核心競爭力？](https://www.zhihu.com/question/1891113677635162799/answer/1955525874859372835?share_code=PG3QxsLgkP8x&utm_psn=1955705569433330956)|
+|112|[DEIMv2登场：当实时DETR遇上DINOv3，YOLO系列迎来最强对手](https://zhuanlan.zhihu.com/p/1954932639887791489?share_code=1sERtwWNrIHgx&utm_psn=1955341823808615402)|
+|113|[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？](https://www.zhihu.com/question/1920949805166858531/answer/1935432824971826844?share_code=J5rtyQxUW1KI&utm_psn=1954859820172677512)|
+|114|[RELU只是把负数变成0，为什么可以作为激活函数？激活函数的本质是什么？](https://www.zhihu.com/question/1942676565583437862/answer/1953060717327520559?share_code=1eJlWAKd4SIM0&utm_psn=1954255376355661075)|
+|115|[为什么感觉现在AI Agent都是雷声大雨点小？](https://www.zhihu.com/question/1923049104222721873/answer/1953934765909583735?share_code=KOqUIiRm6I9y&utm_psn=1954208157384577104)|
+|116|[如何通俗易懂地解释卷积？](https://www.zhihu.com/question/22298352/answer/1951594452079576680?share_code=Y4mMu779uS4r&utm_psn=1953178705720509833)|
+|117|[能大致讲一下agent的原理吗？](https://www.zhihu.com/question/4838236459/answer/1951966477113602156?share_code=1aEc508fkxhqz&utm_psn=1952125704855588975)|
+|||
+|||
