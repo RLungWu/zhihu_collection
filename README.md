@@ -121,3 +121,4 @@
 |116|[如何通俗易懂地解釋卷積？](https://www.zhihu.com/question/22298352/answer/1951594452079576680?share_code=Y4mMu779uS4r&utm_psn=1953178705720509833)|
 |117|[能大致講一下agent的原理嗎？](https://www.zhihu.com/question/4838236459/answer/1951966477113602156?share_code=1aEc508fkxhqz&utm_psn=1952125704855588975)|
 |118|[從編譯器角度看模型是如何被支持加載起來的](https://zhuanlan.zhihu.com/p/1951327455668319869)|
+|119|[如何才算是入坑llm呢？](https://www.zhihu.com/question/1913413189753877312/answer/1953098132280836162)|
