@@ -122,4 +122,5 @@
 |117|[能大致講一下agent的原理嗎？](https://www.zhihu.com/question/4838236459/answer/1951966477113602156?share_code=1aEc508fkxhqz&utm_psn=1952125704855588975)|
 |118|[從編譯器角度看模型是如何被支持加載起來的](https://zhuanlan.zhihu.com/p/1951327455668319869)|
 |119|[如何才算是入坑llm呢？](https://www.zhihu.com/question/1913413189753877312/answer/1953098132280836162)|
-|120|[2025 OpenAI ML 工程師第一輪面試與解答案例](https://zhuanlan.zhihu.com/p/1954883564152788970?share_code=8mMZXYJpAVsV&utm_psn=1955969742729909726)|
+|120|[2025 OpenAI ML 工程師第一輪面試與解答案例](https://zhuanlan.zhihu.com/p/1954883564152788970?share_code=8mMZXYJpAVsV&utm_psn=1955969742729909726)|很實用|
+|121|[RAG很難，直到我掌握了這12個技巧-> RAG 流程準確率達到 99%](https://zhuanlan.zhihu.com/p/1956865613138986501?share_code=1fO1oZTr8m8uE&utm_psn=1957481045638243571)|
