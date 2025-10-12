@@ -124,3 +124,9 @@
 |119|[如何才算是入坑llm呢？](https://www.zhihu.com/question/1913413189753877312/answer/1953098132280836162)|
 |120|[2025 OpenAI ML 工程師第一輪面試與解答案例](https://zhuanlan.zhihu.com/p/1954883564152788970?share_code=8mMZXYJpAVsV&utm_psn=1955969742729909726)|很實用|
 |121|[RAG很難，直到我掌握了這12個技巧-> RAG 流程準確率達到 99%](https://zhuanlan.zhihu.com/p/1956865613138986501?share_code=1fO1oZTr8m8uE&utm_psn=1957481045638243571)|
+|122|[AgentFlow: 用在線強化學習優化模型的 Agentic 能力](https://zhuanlan.zhihu.com/p/1960844370321347350?share_code=K5gqaooeTID2&utm_psn=1960848097384040431)|
+|123|[AI不會替代傳統軟件，就像高鐵不會取代鐵路](https://zhuanlan.zhihu.com/p/1922713666417039312?share_code=FKyvFG4GaZIA&utm_psn=1960770613682638986)|
+|124|[打造自主學習的 AI Agent : 強化學習+ Langgraph代碼](https://zhuanlan.zhihu.com/p/1958998732960928663?share_code=lIbsgUQYv3TW&utm_psn=1960411988040611468)|
+|125|[有人調研過各大公司開源的 AI Agent 開發框架嗎?](https://www.zhihu.com/question/12886054016/answer/1959634378108933543?share_code=eqklRgf9KW9k&utm_psn=1959666262763368459)|
+|126|[Pepper: A Real‑Time, Event‑Driven Architecture for Proactive Agentic Systems](https://agentica-project.com/post.html?post=pepper.md&fbclid=IwdGRjcANQbLlleHRuA2FlbQIxMQABHp9SD0tsbGpOJUeNYBPPxN04espAYCvGx_22MbcbMt9YNkMoI9S8F-ZGWozC_aem_jPZDd2FZ5pfY8rWMofOFFA)|
+|127|[Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)|
