@@ -130,3 +130,5 @@
 |125|[有人調研過各大公司開源的 AI Agent 開發框架嗎?](https://www.zhihu.com/question/12886054016/answer/1959634378108933543?share_code=eqklRgf9KW9k&utm_psn=1959666262763368459)|
 |126|[Pepper: A Real‑Time, Event‑Driven Architecture for Proactive Agentic Systems](https://agentica-project.com/post.html?post=pepper.md&fbclid=IwdGRjcANQbLlleHRuA2FlbQIxMQABHp9SD0tsbGpOJUeNYBPPxN04espAYCvGx_22MbcbMt9YNkMoI9S8F-ZGWozC_aem_jPZDd2FZ5pfY8rWMofOFFA)|
 |127|[Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)|
+|128|[Agent 框架縱述： 從 Prompt 到上下文工程構建 Agent](https://web.ncku.edu.tw/index.php?Lang=en)|
+|129|[The Anatomy of a Personal Health Agent](https://arxiv.org/pdf/2508.20148)|Google出品|
