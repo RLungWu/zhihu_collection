@@ -132,3 +132,7 @@
 |127|[Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)|
 |128|[Agent 框架縱述： 從 Prompt 到上下文工程構建 Agent](https://web.ncku.edu.tw/index.php?Lang=en)|
 |129|[The Anatomy of a Personal Health Agent](https://arxiv.org/pdf/2508.20148)|Google出品|
+|130|[無大算力時，作為學生，LLM還有哪些值得做的研究](https://www.zhihu.com/question/1936111519252349787/answer/1962545122764895895?share_code=rZ919f6itm9Y&utm_psn=1963753437092124534) |
+|131|[Agent RL 訓練中一個容易被忽視的坑： Retokenization Drift](https://zhuanlan.zhihu.com/p/1965067274642785725?share_code=6lg3ivacr2ZL&utm_psn=1967196097148584208) |
+|132|[LLM推理基礎 The basics of LLM inference](https://zhuanlan.zhihu.com/p/1967899922562015249?share_code=1cEcbs79QV2ZH&utm_psn=1968124202050642070) |
+|133|[從頭理解PPO：從公式到代碼](https://zhuanlan.zhihu.com/p/3333839684) |
