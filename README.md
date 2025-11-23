@@ -136,3 +136,10 @@
 |131|[Agent RL 訓練中一個容易被忽視的坑： Retokenization Drift](https://zhuanlan.zhihu.com/p/1965067274642785725?share_code=6lg3ivacr2ZL&utm_psn=1967196097148584208) |
 |132|[LLM推理基礎 The basics of LLM inference](https://zhuanlan.zhihu.com/p/1967899922562015249?share_code=1cEcbs79QV2ZH&utm_psn=1968124202050642070) |
 |133|[從頭理解PPO：從公式到代碼](https://zhuanlan.zhihu.com/p/3333839684) |
+|134|[使用 Langgraph 構建複雜得多 Agent 系統：智能合同審核實戰](https://zhuanlan.zhihu.com/p/1970796091390816353?share_code=1iffppcR18nvJ&utm_psn=1971243849679613993)|
+|135|[被權重出賣的"贓數據"：GPT-oss 揭穿的 openAI 中文訓練真相](https://zhuanlan.zhihu.com/p/1971159047433593759?share_code=YmO0XgmNKhuH&utm_psn=1971905206167007829)|
+|136|[每位AI開發者都應該掌握的多模態 RAG 設計模式](https://zhuanlan.zhihu.com/p/1975126627676604250?share_code=uNR0OUGkm53W&utm_psn=1975164494113162770)|
+|137|[Qwen3-0.6B 這種小模型有甚麼實際意義跟用途嗎?](https://www.zhihu.com/question/1900664888608691102/answer/1902133419703529571?share_code=keSUsFDLRU5J&utm_psn=1975557449621723132)|
+|138|[構建多模態 RAG 系統的全面指南](https://zhuanlan.zhihu.com/p/1975243477060167021)|
+|139|[備忘：關於 VLM 一些實現點](https://zhuanlan.zhihu.com/p/1898484496715718840)|
+|140|[如何判斷是自己 prompt 寫的不夠好還是基座模型的能力不夠達步道預期的效果，需要做模型微調?](https://www.zhihu.com/question/1963256821990012133/answer/1974077710713250598)|
