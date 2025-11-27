@@ -143,3 +143,6 @@
 |138|[構建多模態 RAG 系統的全面指南](https://zhuanlan.zhihu.com/p/1975243477060167021)|
 |139|[備忘：關於 VLM 一些實現點](https://zhuanlan.zhihu.com/p/1898484496715718840)|
 |140|[如何判斷是自己 prompt 寫的不夠好還是基座模型的能力不夠達步道預期的效果，需要做模型微調?](https://www.zhihu.com/question/1963256821990012133/answer/1974077710713250598)|
+|141|[大模型如何在指令微調當中構建或篩選高質量的數據](https://www.zhihu.com/question/623570103/answer/1976222246474362920)|
+|142|[學生面試當中的"熟悉Linux" 大概是到甚麼程度?](https://www.zhihu.com/question/623570103/answer/1976222246474362920)|
+|143|[Anthropic 最新 Agent 技術柏克! Token 消耗暴跌98%](https://zhuanlan.zhihu.com/p/1977455300673049863)|
